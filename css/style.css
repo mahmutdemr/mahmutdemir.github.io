@@ -1121,6 +1121,26 @@ input[type="text"] {
   color: #fff;
   border: 2px solid #969696;
 }
+
+
+.btn-primary2 {
+  background: #969696;
+  color: #fff;
+  border: 2px solid #969696;
+  
+            width:200px;
+            height:70px;
+            top: 50%;
+            left: 50%;
+            margin-left: 80px;
+  			padding-top: 20px;
+  			font-size: 20px;
+}
+
+
+
+
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #969696 !important;
   border-color: #969696 !important;
